@@ -12,8 +12,6 @@
     <link rel="stylesheet" href="assets/css/reset.css">
     <link rel="stylesheet" href="assets/css/style.css">
 
-  
- 
     <title>WebTitle</title>
 
     <!--[if lt IE 9]>
